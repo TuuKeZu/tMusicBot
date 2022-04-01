@@ -1,3 +1,8 @@
-node_modules
-audio
-config.json
+# CONFIG FILE
+/config.json
+/package-lock.json
+
+# NODE MODULES
+/node_modules
+#AUDIO FOLDER
+/audio
